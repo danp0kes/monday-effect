@@ -1,5 +1,7 @@
 # How the Stock Market Reacts to the Weekend 
 
+find the full project [here](MondayEffect.ipynb)
+
 ## Theory
 
 ### The Monday Effect
@@ -24,8 +26,18 @@ Both the Weekend and Monday effect will be tested using data from the S&P 500, a
 
 Higher frequencies of high Friday returns result in a positive gain. However, investing on Monday in a year with a lower frequency of high Friday returns offers a greater gain. Years where Friday returns are less frequent than Monday returns could be correlated to economic turmoil as seen in 2020, 2008 and the early 2000s. Investing on Monday’s during these years would see significant gains. Timing the market is important to the Weekend Effect.
 
+![correlation](images/corr.png)
+
+![friday-monday-corr](images/risk-reward-general.png)
+
 ### Monday Effect
 
 The data supports a stronger relationship between Monday and Tuesday. Tuesday returns that follow a negative Monday average a positive 16 basis points with a general correlation of -.21. Tracking this over the years, 2020 showed a linear negative correlation of 66%. Monday return prices in a year like 2020 could lead to significant insights into how the price on Tuesday would react. More analysis into why this happened is required. 
+
+![mon-tues-corr](images/m_t_corr.png)
+
+
+
+
 
 
