@@ -1,6 +1,6 @@
 # How the Stock Market Reacts to the Weekend 
 
-find the full project [here](MondayEffect.ipynb)
+Find the full project [here](MondayEffect.ipynb).
 
 ## Theory
 
@@ -28,7 +28,7 @@ Higher frequencies of high Friday returns result in a positive gain. However, in
 
 ![correlation](images/corr.png)
 
-![friday-monday-corr](images/risk-reward-general.png)
+![friday-monday-corr](images/risk-return-negative.png)
 
 ### Monday Effect
 
