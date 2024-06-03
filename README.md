@@ -28,7 +28,7 @@ Higher frequencies of high Friday returns result in a positive gain. However, in
 
 ![correlation](images/corr.png)
 
-![friday-monday-corr](images/risk-return-negative.png)
+![friday-monday-corr](images/risk_return_negative.png)
 
 ### Monday Effect
 
